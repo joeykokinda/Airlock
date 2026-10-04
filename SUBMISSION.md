@@ -46,8 +46,9 @@ The web console is built with React, TypeScript, and a Cloudflare-compatible run
 
 ## Repository and deployment
 
-- [ ] Public repository URL
-- [ ] Live deployment URL
+- [x] Public repository: https://github.com/joeykokinda/Airlock
+- [x] Private working deployment: https://airlock-perpl.anonymous42.chatgpt.site
+- [ ] Public judge-accessible deployment URL
 - [ ] Monad network: Mainnet or Testnet
 - [ ] Perpl contract addresses used
 - [ ] Envio hosted indexer / GraphQL URL
